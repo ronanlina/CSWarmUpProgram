@@ -1,0 +1,10 @@
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\bin\Debug\WarmUpExercise_WindowsForm_Menu.exe.config
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\bin\Debug\WarmUpExercise_WindowsForm_Menu.exe
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\bin\Debug\WarmUpExercise_WindowsForm_Menu.pdb
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\obj\Debug\WarmUpExercise_WindowsForm_Menu.Properties.Resources.resources
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\obj\Debug\WarmUpExercise_WindowsForm_Menu.csproj.GenerateResource.cache
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\obj\Debug\WarmUpExercise_WindowsForm_Menu.csproj.CoreCompileInputs.cache
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\obj\Debug\WarmUpExercise_WindowsForm_Menu.exe
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\obj\Debug\WarmUpExercise_WindowsForm_Menu.pdb
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\obj\Debug\WarmUpExercise_WindowsForm_Menu.HomeActivity.resources
+C:\Users\Ronan Lina\source\repos\WarmUpExercise_WindowsForm_Menu\WarmUpExercise_WindowsForm_Menu\obj\Debug\WarmUpExercise_WindowsForm_Menu.csprojAssemblyReference.cache
